@@ -1,0 +1,14 @@
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\bin\Debug\net9.0\Homework.exe
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\bin\Debug\net9.0\Homework.deps.json
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\bin\Debug\net9.0\Homework.runtimeconfig.json
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\bin\Debug\net9.0\Homework.dll
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\bin\Debug\net9.0\Homework.pdb
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\obj\Debug\net9.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\obj\Debug\net9.0\Homework.AssemblyInfoInputs.cache
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\obj\Debug\net9.0\Homework.AssemblyInfo.cs
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\obj\Debug\net9.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\obj\Debug\net9.0\Homework.dll
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\obj\Debug\net9.0\refint\Homework.dll
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\obj\Debug\net9.0\Homework.pdb
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\obj\Debug\net9.0\Homework.genruntimeconfig.cache
+C:\Users\denta\Desktop\C#course\2609Lynq\ConsoleApp1\Homework\obj\Debug\net9.0\ref\Homework.dll
